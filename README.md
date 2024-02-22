@@ -22,6 +22,11 @@ Soporte: SOYLUFE97@GMAIL.COM
 
 ![image](https://github.com/LuisFsilva97/UniversidadDeManizales_ProyectBoutique/assets/157631615/cb28ddc2-c829-4529-84f2-aaedb55cb8c2)
 
+## CheckStore 
+
+![Captura de pantalla 2024-02-22 113611](https://github.com/LuisFsilva97/UniversidadDeManizales_ProyectBoutique/assets/157631615/d2624c3f-7c4f-4aa6-9b15-53e3cce90f52)
+
+
 ## ResposiveMovil 
 
 ![Captura de pantalla 2024-02-22 112640](https://github.com/LuisFsilva97/UniversidadDeManizales_ProyectBoutique/assets/157631615/60de5b55-0649-4389-a13e-55e938b62ef1)
