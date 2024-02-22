@@ -6,12 +6,20 @@ Queriendo sorprender a los reclutadores, opte por un desarrollo desde 0 para mos
 ![MongoDB_Logo svg](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/9fabb1d5-dfd2-466e-bfc9-c64e72523de9)![nestjs-icon-2048x2040-3rrvcej8](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/224aa6fe-9c10-4894-9e62-239fb4b04e56)![JavaScript-logo](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/8327e3a1-29cf-4744-b1d8-777bd84337b0)
 
 
-
 #A Continuaciòn leer y observar muy bien las caracteristicas del Software por medio de imagenes, luego leer las instrucciones para asi descargarlo, instalarlo y ser probarlo. llegado el caso que no funcione puede indicar una reunion para ayuda al usuario o reclutador que lo observara.
 
 Soporte: SOYLUFE97@GMAIL.COM
 
+![Captura de pantalla 2024-02-22 112340](https://github.com/LuisFsilva97/UniversidadDeManizales_ProyectBoutique/assets/157631615/e098b83f-a84f-4534-96df-9720be44a3d8)
 
+
+## Instalación
+
+Asegúrate de tener Node.js con npm instalados en tu sistema antes de continuar. También necesitarás tener instalado el CLI de Create React App si aún no lo tienes.
+
+PARA OBTENER LAS CARPETAS:
+.next
+.node_modules
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
