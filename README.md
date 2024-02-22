@@ -1,4 +1,4 @@
-# Tienda Boutique @LUIS FERNANDO SILVA BETANCURT
+![image](https://github.com/LuisFsilva97/UniversidadDeManizales_ProyectBoutique/assets/157631615/72b4263e-4ad6-4ffc-913f-e993da275702)# Tienda Boutique @LUIS FERNANDO SILVA BETANCURT
 
 Queriendo sorprender a los reclutadores, opte por un desarrollo desde 0 para mostrar mi capacidades Frontend y Backend en Next.js.
 
@@ -10,8 +10,12 @@ Queriendo sorprender a los reclutadores, opte por un desarrollo desde 0 para mos
 
 Soporte: SOYLUFE97@GMAIL.COM
 
+## HomedeInicio
+
 ![Captura de pantalla 2024-02-22 112340](https://github.com/LuisFsilva97/UniversidadDeManizales_ProyectBoutique/assets/157631615/e098b83f-a84f-4534-96df-9720be44a3d8)
 
+## Store  
+## ResposiveMovil ![Captura de pantalla 2024-02-22 112640](https://github.com/LuisFsilva97/UniversidadDeManizales_ProyectBoutique/assets/157631615/60de5b55-0649-4389-a13e-55e938b62ef1)
 
 ## Instalación
 
